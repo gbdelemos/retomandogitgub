@@ -1,0 +1,5 @@
+
+##sera que eu lembro como se faz isto??
+
+x = rnorm(1e3)
+boxplot(x)
