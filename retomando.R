@@ -4,4 +4,4 @@
 x = rnorm(1e3)
 boxplot(x)
 hist(x)
-
+summary(x)
